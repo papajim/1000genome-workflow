@@ -19,6 +19,12 @@ _Frequency Overlap Mutations_. This tasks measures the frequency of overlapping 
 
 This workflow is based on the application described in: https://github.com/rosafilgueira/Mutation_Sets
 
+Unzipping Input Data
+---------------------
+```
+./prepare_input.sh
+```
+
 Generating a Workflow
 ---------------------
 ```
